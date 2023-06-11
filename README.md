@@ -20,7 +20,7 @@ To install and run the project locally, follow these steps:
 
 Make sure you have Python installed on your system. You can download Python from the official website: https://www.python.org/downloads/
 
-# Clone the repository to your local machine using the following command:
+### Clone the repository to your local machine using the following command:
 git clone https://github.com/your-username/your-repo.git
 
 # Change into the project directory:
