@@ -16,7 +16,7 @@ Credits
 
 ## Installation
 
-# To install and run the project locally, follow these steps:
+To install and run the project locally, follow these steps:
 
 Make sure you have Python installed on your system. You can download Python from the official website: https://www.python.org/downloads/
 
